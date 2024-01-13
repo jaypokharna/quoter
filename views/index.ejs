@@ -1,11 +1,60 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <!-- Link to external stylesheet -->
+  <link rel="stylesheet" href="stylesheets/style.css">
+
+</head>
+<body class="bg-cyan-300">
+  <!-- Main content of the page -->
+  Main Page
+
+  <!-- Subscription form -->
+  <form id="subscriptionForm" action="/subscribe" method="post">
+    <!-- Email input -->
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <br>
+
+    <!-- Categories checkboxes -->
+    <label>Categories:</label>
+    <div>
+        <!-- Coding category -->
+        <input type="checkbox" id="coding" name="coding" value="coding">
+        <label for="coding">Coding</label>
+
+        <!-- Sports category -->
+        <input type="checkbox" id="sports" name="sports" value="sports">
+        <label for="sports">Sports</label>
+
+        <!-- Fashion category -->
+        <input type="checkbox" id="fashion" name="fashion" value="fashion">
+        <label for="fashion">Fashion</label>
+
+        <!-- Business category -->
+        <input type="checkbox" id="business" name="business" value="business">
+        <label for="business">Business</label>
+
+        <!-- Exams category -->
+        <input type="checkbox" id="exams" name="exams" value="exams">
+        <label for="exams">Exams</label>
+
+        <!-- Trading category -->
+        <input type="checkbox" id="trading" name="trading" value="trading">
+        <label for="trading">Trading</label>
+
+        <!-- Add more checkboxes for other categories as needed -->
+
+    </div>
+    <br>
+
+    <!-- Subscribe button -->
+    <button type="submit">Subscribe</button>
+  </form>
+
+</body>
 </html>
