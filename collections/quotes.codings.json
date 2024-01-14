@@ -1,0 +1,1600 @@
+[{
+  "_id": {
+    "$oid": "65a29d305d8b4548660580f1"
+  },
+  "quote": "\"Code is the poetry of a logical mind.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058257"
+  },
+  "quote": "\"The best error is the one that teaches you something new.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605825b"
+  },
+  "quote": "\"In the world of coding, every problem is an opportunity for a solution.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605825f"
+  },
+  "quote": "\"A coder's journey is a perpetual quest for improvement.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058263"
+  },
+  "quote": "\"Coding is not just a skill; it's a mindset.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058267"
+  },
+  "quote": "\"Debugging is like detective work; it's about finding the truth in a sea of information.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605826b"
+  },
+  "quote": "\"In the realm of code, persistence triumphs over complexity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605826f"
+  },
+  "quote": "\"Coding is an art, and every programmer is an artist.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058273"
+  },
+  "quote": "\"The beauty of code lies in its functionality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058277"
+  },
+  "quote": "\"A bug is not a mistake; it's an undocumented feature.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605827b"
+  },
+  "quote": "\"Coding is thinking made visible.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605827f"
+  },
+  "quote": "\"The best code is the one that never needs to be written.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058287"
+  },
+  "quote": "\"A programmer's best friend is patience.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605828d"
+  },
+  "quote": "\"Coding is not just about creating software; it's about solving real-world problems.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058293"
+  },
+  "quote": "\"Success in coding comes from the ability to embrace failure.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058299"
+  },
+  "quote": "\"A programmer's superpower is turning coffee into code.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605829f"
+  },
+  "quote": "\"Coding is a journey with no final destination, only continuous improvement.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582a5"
+  },
+  "quote": "\"The more you code, the more you discover the elegance in simplicity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582ab"
+  },
+  "quote": "\"Coding is not just about writing lines; it's about creating possibilities.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582b3"
+  },
+  "quote": "\"Programming is the closest thing we have to magic in the digital age.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582bb"
+  },
+  "quote": "\"Code like no one is watching, debug like everyone is.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582c3"
+  },
+  "quote": "\"Coding is the bridge between imagination and reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582cb"
+  },
+  "quote": "\"The best code is the one you enjoy writing.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582d3"
+  },
+  "quote": "\"Coding is not a job; it's a passion that turns ideas into reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582db"
+  },
+  "quote": "\"In coding, each line is a step towards innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582e3"
+  },
+  "quote": "\"Programming is the art of making the complex simple.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582eb"
+  },
+  "quote": "\"Coding is the language that speaks to machines and empowers humans.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582f3"
+  },
+  "quote": "\"The joy of coding is in the journey of problem-solving.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582f9"
+  },
+  "quote": "\"Every bug is a chance to improve and learn.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582ff"
+  },
+  "quote": "\"Code with the intention to make a positive impact.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058305"
+  },
+  "quote": "\"The most beautiful code is the one that works.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605830b"
+  },
+  "quote": "\"Coding is the art of turning dreams into reality with logic.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058311"
+  },
+  "quote": "\"Every program is a story; every function is a character.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058317"
+  },
+  "quote": "\"The best coders are those who learn from their own mistakes.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605831d"
+  },
+  "quote": "\"Coding is not just about building software; it's about creating solutions.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058323"
+  },
+  "quote": "\"A coder's mindset: Be curious, be patient, be persistent.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058329"
+  },
+  "quote": "\"The code you write today is the legacy you leave for tomorrow.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605832f"
+  },
+  "quote": "\"Coding is not about perfection; it's about progress.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058335"
+  },
+  "quote": "\"Programming is the key that unlocks the door to innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605833b"
+  },
+  "quote": "\"The more you debug, the better you become at preventing bugs.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058341"
+  },
+  "quote": "\"Coding is a journey of self-discovery through logic and creativity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058347"
+  },
+  "quote": "\"In coding, every problem is an opportunity to innovate.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605834d"
+  },
+  "quote": "\"Programming is the craft of turning ideas into reality with logic and precision.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058353"
+  },
+  "quote": "\"The best coders are those who understand the importance of continuous learning.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058359"
+  },
+  "quote": "\"Coding is the art of turning complexity into simplicity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605835f"
+  },
+  "quote": "\"Code as if the next developer is a time-traveling version of yourself.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058365"
+  },
+  "quote": "\"The key to coding mastery is the willingness to embrace challenges.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605836b"
+  },
+  "quote": "\"Programming is the art of making machines dance to your rhythm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058371"
+  },
+  "quote": "\"Coding is not just about typing; it's about understanding and solving.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058377"
+  },
+  "quote": "\"A programmer's mindset is a blend of creativity and logic.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605837d"
+  },
+  "quote": "\"The joy of coding comes from the thrill of problem-solving.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058383"
+  },
+  "quote": "\"Coding is not a sprint; it's a marathon of continuous improvement.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058389"
+  },
+  "quote": "\"Every line of code is a brushstroke on the canvas of innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605838f"
+  },
+  "quote": "\"Programming is a puzzle, and every bug is a missing piece.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058395"
+  },
+  "quote": "\"Coding is the art of turning complexity into clarity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605839b"
+  },
+  "quote": "\"In coding, there are no problems, only challenges waiting for solutions.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583a1"
+  },
+  "quote": "\"The beauty of code is in its ability to transform ideas into reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583a7"
+  },
+  "quote": "\"Coding is not just a profession; it's a mindset of perpetual learning.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583ab"
+  },
+  "quote": "\"A coder's journey is marked by the milestones of problem-solving.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583b1"
+  },
+  "quote": "\"The elegance of code is in its simplicity, not its complexity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583b5"
+  },
+  "quote": "\"Code is a reflection of the coder's understanding and creativity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583bb"
+  },
+  "quote": "\"Programming is the symphony of logic and creativity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583c1"
+  },
+  "quote": "\"Coding is the art of building castles in the digital realm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583c7"
+  },
+  "quote": "\"Every bug is a reminder to stay humble and keep learning.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583cd"
+  },
+  "quote": "\"Code is the bridge that connects human imagination with machine execution.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583d3"
+  },
+  "quote": "\"In coding, every mistake is a stepping stone to mastery.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583d9"
+  },
+  "quote": "\"The more you code, the more you realize the infinite possibilities.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583df"
+  },
+  "quote": "\"Coding is the poetry that machines understand and humans appreciate.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583e5"
+  },
+  "quote": "\"Programming is the language that translates dreams into functional reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583eb"
+  },
+  "quote": "\"The best code is like a well-told story; it captures attention and delivers a message.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583f1"
+  },
+  "quote": "\"Coding is the journey of converting logic into functional art.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583f7"
+  },
+  "quote": "\"In the world of coding, every challenge is an opportunity to shine.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583fd"
+  },
+  "quote": "\"Programming is the silent revolution that shapes the digital world.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058403"
+  },
+  "quote": "\"Coding is the art of turning complexity into an elegant solution.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058409"
+  },
+  "quote": "\"Every line of code is an investment in the future.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605840f"
+  },
+  "quote": "\"Coding is the craft of turning ideas into interactive experiences.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058415"
+  },
+  "quote": "\"The magic of coding is in the transformation of ideas into tangible results.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605841b"
+  },
+  "quote": "\"Programming is the canvas where imagination meets functionality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058421"
+  },
+  "quote": "\"Coding is the art of making the digital world a better place.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058427"
+  },
+  "quote": "\"In coding, every keystroke is a brushstroke on the canvas of innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605842d"
+  },
+  "quote": "\"The best code is not just functional; it's an expression of creativity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058433"
+  },
+  "quote": "\"Programming is the playground where logic meets imagination.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058439"
+  },
+  "quote": "\"Coding is not just a skill; it's a journey of continuous improvement.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605843f"
+  },
+  "quote": "\"In the world of coding, every problem is an opportunity for innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058445"
+  },
+  "quote": "\"Programming is the dance of logic in the digital universe.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605844b"
+  },
+  "quote": "\"Coding is the language of innovation that speaks to machines and humans alike.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058451"
+  },
+  "quote": "\"The joy of coding is in the pursuit of perfection through continuous learning.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058457"
+  },
+  "quote": "\"Every bug is a chance to become a better coder.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605845d"
+  },
+  "quote": "\"Code is the instrument that transforms ideas into digital symphonies.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058463"
+  },
+  "quote": "\"Coding is the journey where challenges are stepping stones to success.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058469"
+  },
+  "quote": "\"In coding, every line is a stroke of genius.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605846f"
+  },
+  "quote": "\"Programming is the bridge between human imagination and machine execution.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058475"
+  },
+  "quote": "\"Coding is not just a job; it's a creative expression of logic.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605847b"
+  },
+  "quote": "\"The best code is the one that solves a problem elegantly.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058481"
+  },
+  "quote": "\"Programming is the science of turning ideas into executable reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058487"
+  },
+  "quote": "\"In coding, every algorithm is a piece of intellectual artwork.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605848d"
+  },
+  "quote": "\"Coding is not just about creating software; it's about solving real-world problems.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058493"
+  },
+  "quote": "\"Programming is the art of turning dreams into digital reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605849b"
+  },
+  "quote": "\"The beauty of code is in its simplicity and functionality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584a1"
+  },
+  "quote": "\"Coding is the journey where every challenge is a chance to excel.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f3097b"
+  },
+  "quote": "\"Code is the poetry of a logical mind.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f3098d"
+  },
+  "quote": "\"The best error is the one that teaches you something new.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309a7"
+  },
+  "quote": "\"In the world of coding, every problem is an opportunity for a solution.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309b5"
+  },
+  "quote": "\"A coder's journey is a perpetual quest for improvement.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309bd"
+  },
+  "quote": "\"Coding is not just a skill; it's a mindset.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309c5"
+  },
+  "quote": "\"Debugging is like detective work; it's about finding the truth in a sea of information.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309d9"
+  },
+  "quote": "\"In the realm of code, persistence triumphs over complexity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309ed"
+  },
+  "quote": "\"Coding is an art, and every programmer is an artist.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a01"
+  },
+  "quote": "\"The beauty of code lies in its functionality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a15"
+  },
+  "quote": "\"A bug is not a mistake; it's an undocumented feature.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a29"
+  },
+  "quote": "\"Coding is thinking made visible.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a3d"
+  },
+  "quote": "\"The best code is the one that never needs to be written.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a51"
+  },
+  "quote": "\"A programmer's best friend is patience.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a65"
+  },
+  "quote": "\"Coding is not just about creating software; it's about solving real-world problems.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a79"
+  },
+  "quote": "\"Success in coding comes from the ability to embrace failure.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a8d"
+  },
+  "quote": "\"A programmer's superpower is turning coffee into code.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30aa1"
+  },
+  "quote": "\"Coding is a journey with no final destination, only continuous improvement.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ab5"
+  },
+  "quote": "\"The more you code, the more you discover the elegance in simplicity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ac9"
+  },
+  "quote": "\"Coding is not just about writing lines; it's about creating possibilities.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30add"
+  },
+  "quote": "\"Programming is the closest thing we have to magic in the digital age.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30af1"
+  },
+  "quote": "\"Code like no one is watching, debug like everyone is.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b05"
+  },
+  "quote": "\"Coding is the bridge between imagination and reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b19"
+  },
+  "quote": "\"The best code is the one you enjoy writing.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b2d"
+  },
+  "quote": "\"Coding is not a job; it's a passion that turns ideas into reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b41"
+  },
+  "quote": "\"In coding, each line is a step towards innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b55"
+  },
+  "quote": "\"Programming is the art of making the complex simple.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b69"
+  },
+  "quote": "\"Coding is the language that speaks to machines and empowers humans.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b7d"
+  },
+  "quote": "\"The joy of coding is in the journey of problem-solving.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b8d"
+  },
+  "quote": "\"Every bug is a chance to improve and learn.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b97"
+  },
+  "quote": "\"Code with the intention to make a positive impact.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ba1"
+  },
+  "quote": "\"The most beautiful code is the one that works.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bad"
+  },
+  "quote": "\"Coding is the art of turning dreams into reality with logic.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bb7"
+  },
+  "quote": "\"Every program is a story; every function is a character.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bc1"
+  },
+  "quote": "\"The best coders are those who learn from their own mistakes.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bcb"
+  },
+  "quote": "\"Coding is not just about building software; it's about creating solutions.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bd5"
+  },
+  "quote": "\"A coder's mindset: Be curious, be patient, be persistent.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bdf"
+  },
+  "quote": "\"The code you write today is the legacy you leave for tomorrow.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30be9"
+  },
+  "quote": "\"Coding is not about perfection; it's about progress.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bf3"
+  },
+  "quote": "\"Programming is the key that unlocks the door to innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bfd"
+  },
+  "quote": "\"The more you debug, the better you become at preventing bugs.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c07"
+  },
+  "quote": "\"Coding is a journey of self-discovery through logic and creativity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c11"
+  },
+  "quote": "\"In coding, every problem is an opportunity to innovate.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c1b"
+  },
+  "quote": "\"Programming is the craft of turning ideas into reality with logic and precision.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c25"
+  },
+  "quote": "\"The best coders are those who understand the importance of continuous learning.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c2f"
+  },
+  "quote": "\"Coding is the art of turning complexity into simplicity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c39"
+  },
+  "quote": "\"Code as if the next developer is a time-traveling version of yourself.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c43"
+  },
+  "quote": "\"The key to coding mastery is the willingness to embrace challenges.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c4d"
+  },
+  "quote": "\"Programming is the art of making machines dance to your rhythm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c57"
+  },
+  "quote": "\"Coding is not just about typing; it's about understanding and solving.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c61"
+  },
+  "quote": "\"A programmer's mindset is a blend of creativity and logic.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c6b"
+  },
+  "quote": "\"The joy of coding comes from the thrill of problem-solving.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c75"
+  },
+  "quote": "\"Coding is not a sprint; it's a marathon of continuous improvement.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c81"
+  },
+  "quote": "\"Every line of code is a brushstroke on the canvas of innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c8b"
+  },
+  "quote": "\"Programming is a puzzle, and every bug is a missing piece.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c95"
+  },
+  "quote": "\"Coding is the art of turning complexity into clarity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c9f"
+  },
+  "quote": "\"In coding, there are no problems, only challenges waiting for solutions.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ca9"
+  },
+  "quote": "\"The beauty of code is in its ability to transform ideas into reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cb3"
+  },
+  "quote": "\"Coding is not just a profession; it's a mindset of perpetual learning.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cbd"
+  },
+  "quote": "\"A coder's journey is marked by the milestones of problem-solving.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cc7"
+  },
+  "quote": "\"The elegance of code is in its simplicity, not its complexity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cd1"
+  },
+  "quote": "\"Code is a reflection of the coder's understanding and creativity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ce3"
+  },
+  "quote": "\"Programming is the symphony of logic and creativity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ced"
+  },
+  "quote": "\"Coding is the art of building castles in the digital realm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cf7"
+  },
+  "quote": "\"Every bug is a reminder to stay humble and keep learning.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d01"
+  },
+  "quote": "\"Code is the bridge that connects human imagination with machine execution.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d0b"
+  },
+  "quote": "\"In coding, every mistake is a stepping stone to mastery.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d15"
+  },
+  "quote": "\"The more you code, the more you realize the infinite possibilities.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d1f"
+  },
+  "quote": "\"Coding is the poetry that machines understand and humans appreciate.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d29"
+  },
+  "quote": "\"Programming is the language that translates dreams into functional reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d33"
+  },
+  "quote": "\"The best code is like a well-told story; it captures attention and delivers a message.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d3d"
+  },
+  "quote": "\"Coding is the journey of converting logic into functional art.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d47"
+  },
+  "quote": "\"In the world of coding, every challenge is an opportunity to shine.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d51"
+  },
+  "quote": "\"Programming is the silent revolution that shapes the digital world.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d5b"
+  },
+  "quote": "\"Coding is the art of turning complexity into an elegant solution.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d65"
+  },
+  "quote": "\"Every line of code is an investment in the future.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d6f"
+  },
+  "quote": "\"Coding is the craft of turning ideas into interactive experiences.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d79"
+  },
+  "quote": "\"The magic of coding is in the transformation of ideas into tangible results.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d83"
+  },
+  "quote": "\"Programming is the canvas where imagination meets functionality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d8d"
+  },
+  "quote": "\"Coding is the art of making the digital world a better place.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d95"
+  },
+  "quote": "\"In coding, every keystroke is a brushstroke on the canvas of innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d9d"
+  },
+  "quote": "\"The best code is not just functional; it's an expression of creativity.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30da5"
+  },
+  "quote": "\"Programming is the playground where logic meets imagination.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dab"
+  },
+  "quote": "\"Coding is not just a skill; it's a journey of continuous improvement.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30db1"
+  },
+  "quote": "\"In the world of coding, every problem is an opportunity for innovation.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30db7"
+  },
+  "quote": "\"Programming is the dance of logic in the digital universe.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dbd"
+  },
+  "quote": "\"Coding is the language of innovation that speaks to machines and humans alike.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dc7"
+  },
+  "quote": "\"The joy of coding is in the pursuit of perfection through continuous learning.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dcb"
+  },
+  "quote": "\"Every bug is a chance to become a better coder.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dcf"
+  },
+  "quote": "\"Code is the instrument that transforms ideas into digital symphonies.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dd3"
+  },
+  "quote": "\"Coding is the journey where challenges are stepping stones to success.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dd7"
+  },
+  "quote": "\"In coding, every line is a stroke of genius.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ddb"
+  },
+  "quote": "\"Programming is the bridge between human imagination and machine execution.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ddf"
+  },
+  "quote": "\"Coding is not just a job; it's a creative expression of logic.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30de5"
+  },
+  "quote": "\"The best code is the one that solves a problem elegantly.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30de9"
+  },
+  "quote": "\"Programming is the science of turning ideas into executable reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ded"
+  },
+  "quote": "\"In coding, every algorithm is a piece of intellectual artwork.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30df1"
+  },
+  "quote": "\"Coding is not just about creating software; it's about solving real-world problems.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30df5"
+  },
+  "quote": "\"Programming is the art of turning dreams into digital reality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30df9"
+  },
+  "quote": "\"The beauty of code is in its simplicity and functionality.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dfd"
+  },
+  "quote": "\"Coding is the journey where every challenge is a chance to excel.\"",
+  "status": false,
+  "__v": 0
+}]

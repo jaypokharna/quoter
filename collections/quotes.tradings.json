@@ -1,0 +1,1600 @@
+[{
+  "_id": {
+    "$oid": "65a29d305d8b4548660580f9"
+  },
+  "quote": "\"The stock market is a device for transferring money from the impatient to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058289"
+  },
+  "quote": "\"In trading and investing, it's not about how much you make but rather how much you don't lose.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058295"
+  },
+  "quote": "\"Risk comes from not knowing what you're doing.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582a1"
+  },
+  "quote": "\"The goal of a successful trader is to make the best trades. Money is secondary.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582ad"
+  },
+  "quote": "\"It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582b5"
+  },
+  "quote": "\"The market is a device for transferring money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582bd"
+  },
+  "quote": "\"The market is a constantly changing organism, and you have to adapt to it. The moment you stop adapting, you're in trouble.\" - Jack Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582c5"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong, and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582cd"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582d5"
+  },
+  "quote": "\"It's not the markets that are at fault for losses, but the trader's approach to them.\" - Jack D. Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582dd"
+  },
+  "quote": "\"In trading and investing, it's not about how much you know, but how much you can control your emotions.\" - Peter Lynch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582e5"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582ed"
+  },
+  "quote": "\"The best investment you can make is in yourself.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582f5"
+  },
+  "quote": "\"Trade what you see, not what you think.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582fb"
+  },
+  "quote": "\"The stock market is designed to transfer money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058301"
+  },
+  "quote": "\"Risk management is the difference between success and failure in trading.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058307"
+  },
+  "quote": "\"In trading, it's not about how often you win, but how much you win when you do.\" - Ed Seykota",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605830d"
+  },
+  "quote": "\"Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058313"
+  },
+  "quote": "\"The market is a device for transferring money from the uncertain to the certain.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058319"
+  },
+  "quote": "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\" - Charles Darwin",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605831f"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058325"
+  },
+  "quote": "\"It's not the market's job to comfort you; it's your job to adapt to the market.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605832b"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058331"
+  },
+  "quote": "\"It's not about how much you trade; it's about how much you make from what you trade.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058337"
+  },
+  "quote": "\"Successful investing is about managing risk, not avoiding it.\" - Benjamin Graham",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605833d"
+  },
+  "quote": "\"The market is a device for transferring money from the speculators to the conservative.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058343"
+  },
+  "quote": "\"It's not about being right, it's about being profitable.\" - Anonymous",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058349"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the prudent.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605834f"
+  },
+  "quote": "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" - Philip Fisher",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058355"
+  },
+  "quote": "\"It's not the market that's irrational; it's the trader who hasn't mastered their emotions.\" - Marty Schwartz",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605835b"
+  },
+  "quote": "\"The market is a device for transferring money from the greedy to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058361"
+  },
+  "quote": "\"The stock market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058367"
+  },
+  "quote": "\"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605836d"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058373"
+  },
+  "quote": "\"Successful investing is about managing risk, not avoiding it.\" - Benjamin Graham",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058379"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605837f"
+  },
+  "quote": "\"In trading, it's not about how much you make but how much you don't lose.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058385"
+  },
+  "quote": "\"The stock market is designed to transfer money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605838b"
+  },
+  "quote": "\"Risk management is the difference between success and failure in trading.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058391"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058397"
+  },
+  "quote": "\"It's not about how much you trade; it's about how much you make from what you trade.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605839d"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583a3"
+  },
+  "quote": "\"The best investment you can make is in yourself.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583ad"
+  },
+  "quote": "\"It's not the market that's irrational; it's the trader who hasn't mastered their emotions.\" - Marty Schwartz",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583b9"
+  },
+  "quote": "\"The market is a device for transferring money from the uncertain to the certain.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583c5"
+  },
+  "quote": "\"Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583d1"
+  },
+  "quote": "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" - Philip Fisher",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583dd"
+  },
+  "quote": "\"Trade what you see, not what you think.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583e9"
+  },
+  "quote": "\"It's not about being right, it's about being profitable.\" - Anonymous",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583f5"
+  },
+  "quote": "\"In trading, it's not about how often you win, but how much you win when you do.\" - Ed Seykota",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058401"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605840d"
+  },
+  "quote": "\"The market is a constantly changing organism, and you have to adapt to it. The moment you stop adapting, you're in trouble.\" - Jack Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058419"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058425"
+  },
+  "quote": "\"It's not the markets that are at fault for losses, but the trader's approach to them.\" - Jack D. Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058431"
+  },
+  "quote": "\"Risk comes from not knowing what you're doing.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605843d"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058449"
+  },
+  "quote": "\"The goal of a successful trader is to make the best trades. Money is secondary.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058455"
+  },
+  "quote": "\"It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058461"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605846d"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong, and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058479"
+  },
+  "quote": "\"The market is a device for transferring money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058485"
+  },
+  "quote": "\"It's not the market's job to comfort you; it's your job to adapt to the market.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058491"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058497"
+  },
+  "quote": "\"It's not about how much you trade; it's about how much you make from what you trade.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605849f"
+  },
+  "quote": "\"Successful investing is about managing risk, not avoiding it.\" - Benjamin Graham",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584a9"
+  },
+  "quote": "\"The market is a device for transferring money from the speculators to the conservative.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584b1"
+  },
+  "quote": "\"It's not about being right, it's about being profitable.\" - Anonymous",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584b9"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the prudent.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584c1"
+  },
+  "quote": "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" - Philip Fisher",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584c9"
+  },
+  "quote": "\"It's not the market that's irrational; it's the trader who hasn't mastered their emotions.\" - Marty Schwartz",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584d1"
+  },
+  "quote": "\"The market is a device for transferring money from the greedy to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584d9"
+  },
+  "quote": "\"The stock market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584e1"
+  },
+  "quote": "\"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584e9"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584f1"
+  },
+  "quote": "\"Successful investing is about managing risk, not avoiding it.\" - Benjamin Graham",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584f9"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058501"
+  },
+  "quote": "\"In trading, it's not about how much you make but how much you don't lose.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058509"
+  },
+  "quote": "\"The stock market is designed to transfer money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605850f"
+  },
+  "quote": "\"Risk management is the difference between success and failure in trading.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058517"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605851f"
+  },
+  "quote": "\"It's not about how much you trade; it's about how much you make from what you trade.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058527"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605852d"
+  },
+  "quote": "\"The best investment you can make is in yourself.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058535"
+  },
+  "quote": "\"It's not the market that's irrational; it's the trader who hasn't mastered their emotions.\" - Marty Schwartz",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605853d"
+  },
+  "quote": "\"The market is a device for transferring money from the uncertain to the certain.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058543"
+  },
+  "quote": "\"Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058547"
+  },
+  "quote": "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" - Philip Fisher",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605854b"
+  },
+  "quote": "\"Trade what you see, not what you think.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605854f"
+  },
+  "quote": "\"It's not about being right, it's about being profitable.\" - Anonymous",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058553"
+  },
+  "quote": "\"In trading, it's not about how often you win, but how much you win when you do.\" - Ed Seykota",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058557"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605855b"
+  },
+  "quote": "\"The market is a constantly changing organism, and you have to adapt to it. The moment you stop adapting, you're in trouble.\" - Jack Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605855f"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058563"
+  },
+  "quote": "\"It's not the markets that are at fault for losses, but the trader's approach to them.\" - Jack D. Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058567"
+  },
+  "quote": "\"Risk comes from not knowing what you're doing.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605856b"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605856f"
+  },
+  "quote": "\"The goal of a successful trader is to make the best trades. Money is secondary.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058573"
+  },
+  "quote": "\"It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058577"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605857b"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong, and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30985"
+  },
+  "quote": "\"The stock market is a device for transferring money from the impatient to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30997"
+  },
+  "quote": "\"In trading and investing, it's not about how much you make but rather how much you don't lose.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f3099f"
+  },
+  "quote": "\"Risk comes from not knowing what you're doing.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309a3"
+  },
+  "quote": "\"The goal of a successful trader is to make the best trades. Money is secondary.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309ab"
+  },
+  "quote": "\"It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309b1"
+  },
+  "quote": "\"The market is a device for transferring money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309b9"
+  },
+  "quote": "\"The market is a constantly changing organism, and you have to adapt to it. The moment you stop adapting, you're in trouble.\" - Jack Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309c1"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong, and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309cd"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309d7"
+  },
+  "quote": "\"It's not the markets that are at fault for losses, but the trader's approach to them.\" - Jack D. Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309e1"
+  },
+  "quote": "\"In trading and investing, it's not about how much you know, but how much you can control your emotions.\" - Peter Lynch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309eb"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309f5"
+  },
+  "quote": "\"The best investment you can make is in yourself.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309ff"
+  },
+  "quote": "\"Trade what you see, not what you think.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a09"
+  },
+  "quote": "\"The stock market is designed to transfer money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a13"
+  },
+  "quote": "\"Risk management is the difference between success and failure in trading.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a1d"
+  },
+  "quote": "\"In trading, it's not about how often you win, but how much you win when you do.\" - Ed Seykota",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a27"
+  },
+  "quote": "\"Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a31"
+  },
+  "quote": "\"The market is a device for transferring money from the uncertain to the certain.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a3b"
+  },
+  "quote": "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\" - Charles Darwin",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a45"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a4f"
+  },
+  "quote": "\"It's not the market's job to comfort you; it's your job to adapt to the market.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a59"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a63"
+  },
+  "quote": "\"It's not about how much you trade; it's about how much you make from what you trade.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a6d"
+  },
+  "quote": "\"Successful investing is about managing risk, not avoiding it.\" - Benjamin Graham",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a77"
+  },
+  "quote": "\"The market is a device for transferring money from the speculators to the conservative.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a83"
+  },
+  "quote": "\"It's not about being right, it's about being profitable.\" - Anonymous",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a97"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the prudent.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30aab"
+  },
+  "quote": "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" - Philip Fisher",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30abf"
+  },
+  "quote": "\"It's not the market that's irrational; it's the trader who hasn't mastered their emotions.\" - Marty Schwartz",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ad3"
+  },
+  "quote": "\"The market is a device for transferring money from the greedy to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ae7"
+  },
+  "quote": "\"The stock market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30afb"
+  },
+  "quote": "\"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b0f"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b23"
+  },
+  "quote": "\"Successful investing is about managing risk, not avoiding it.\" - Benjamin Graham",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b37"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b4b"
+  },
+  "quote": "\"In trading, it's not about how much you make but how much you don't lose.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b5f"
+  },
+  "quote": "\"The stock market is designed to transfer money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b73"
+  },
+  "quote": "\"Risk management is the difference between success and failure in trading.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b85"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b8f"
+  },
+  "quote": "\"It's not about how much you trade; it's about how much you make from what you trade.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b99"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ba3"
+  },
+  "quote": "\"The best investment you can make is in yourself.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30baf"
+  },
+  "quote": "\"It's not the market that's irrational; it's the trader who hasn't mastered their emotions.\" - Marty Schwartz",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bb9"
+  },
+  "quote": "\"The market is a device for transferring money from the uncertain to the certain.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bc3"
+  },
+  "quote": "\"Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bcd"
+  },
+  "quote": "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" - Philip Fisher",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bd7"
+  },
+  "quote": "\"Trade what you see, not what you think.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30be1"
+  },
+  "quote": "\"It's not about being right, it's about being profitable.\" - Anonymous",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30beb"
+  },
+  "quote": "\"In trading, it's not about how often you win, but how much you win when you do.\" - Ed Seykota",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bf5"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bff"
+  },
+  "quote": "\"The market is a constantly changing organism, and you have to adapt to it. The moment you stop adapting, you're in trouble.\" - Jack Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c09"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c13"
+  },
+  "quote": "\"It's not the markets that are at fault for losses, but the trader's approach to them.\" - Jack D. Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c1d"
+  },
+  "quote": "\"Risk comes from not knowing what you're doing.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c27"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c31"
+  },
+  "quote": "\"The goal of a successful trader is to make the best trades. Money is secondary.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c3b"
+  },
+  "quote": "\"It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c45"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c4f"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong, and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c59"
+  },
+  "quote": "\"The market is a device for transferring money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c63"
+  },
+  "quote": "\"It's not the market's job to comfort you; it's your job to adapt to the market.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c6d"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c7f"
+  },
+  "quote": "\"It's not about how much you trade; it's about how much you make from what you trade.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c89"
+  },
+  "quote": "\"Successful investing is about managing risk, not avoiding it.\" - Benjamin Graham",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c93"
+  },
+  "quote": "\"The market is a device for transferring money from the speculators to the conservative.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c9d"
+  },
+  "quote": "\"It's not about being right, it's about being profitable.\" - Anonymous",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ca7"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the prudent.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cb1"
+  },
+  "quote": "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" - Philip Fisher",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cbb"
+  },
+  "quote": "\"It's not the market that's irrational; it's the trader who hasn't mastered their emotions.\" - Marty Schwartz",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cc5"
+  },
+  "quote": "\"The market is a device for transferring money from the greedy to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ccf"
+  },
+  "quote": "\"The stock market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cd9"
+  },
+  "quote": "\"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ce1"
+  },
+  "quote": "\"The market is a device for transferring money from the overconfident to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ceb"
+  },
+  "quote": "\"Successful investing is about managing risk, not avoiding it.\" - Benjamin Graham",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cf5"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cff"
+  },
+  "quote": "\"In trading, it's not about how much you make but how much you don't lose.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d09"
+  },
+  "quote": "\"The stock market is designed to transfer money from the active to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d13"
+  },
+  "quote": "\"Risk management is the difference between success and failure in trading.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d1d"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d27"
+  },
+  "quote": "\"It's not about how much you trade; it's about how much you make from what you trade.\" - Bernard Baruch",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d31"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d3b"
+  },
+  "quote": "\"The best investment you can make is in yourself.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d45"
+  },
+  "quote": "\"It's not the market that's irrational; it's the trader who hasn't mastered their emotions.\" - Marty Schwartz",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d4f"
+  },
+  "quote": "\"The market is a device for transferring money from the uncertain to the certain.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d59"
+  },
+  "quote": "\"Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d63"
+  },
+  "quote": "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" - Philip Fisher",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d6d"
+  },
+  "quote": "\"Trade what you see, not what you think.\" - Larry Hite",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d77"
+  },
+  "quote": "\"It's not about being right, it's about being profitable.\" - Anonymous",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d81"
+  },
+  "quote": "\"In trading, it's not about how often you win, but how much you win when you do.\" - Ed Seykota",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d8b"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d93"
+  },
+  "quote": "\"The market is a constantly changing organism, and you have to adapt to it. The moment you stop adapting, you're in trouble.\" - Jack Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d9b"
+  },
+  "quote": "\"The market is a device for transferring money from the impulsive to the disciplined.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30da3"
+  },
+  "quote": "\"It's not the markets that are at fault for losses, but the trader's approach to them.\" - Jack D. Schwager",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30da9"
+  },
+  "quote": "\"Risk comes from not knowing what you're doing.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30daf"
+  },
+  "quote": "\"The market is a device for transferring money from the overactive to the patient.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30db5"
+  },
+  "quote": "\"The goal of a successful trader is to make the best trades. Money is secondary.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dbb"
+  },
+  "quote": "\"It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong.\" - George Soros",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dc1"
+  },
+  "quote": "\"The market is a device for transferring money from the inattentive to the attentive.\" - Warren Buffett",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dc5"
+  },
+  "quote": "\"The goal of a trader is to minimize the time spent being wrong, and maximize the time spent being right.\" - Alexander Elder",
+  "status": false,
+  "__v": 0
+}]

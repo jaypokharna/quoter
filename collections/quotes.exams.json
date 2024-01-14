@@ -1,0 +1,1600 @@
+[{
+  "_id": {
+    "$oid": "65a29d305d8b4548660580f7"
+  },
+  "quote": "\"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582af"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582bf"
+  },
+  "quote": "\"Your attitude determines your direction during exams.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582cf"
+  },
+  "quote": "\"The only way to do great work is to love what you do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582df"
+  },
+  "quote": "\"You are never too old to set another goal or to dream a new dream.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582ef"
+  },
+  "quote": "\"Success is stumbling from failure to failure with no loss of enthusiasm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660582fd"
+  },
+  "quote": "\"The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058309"
+  },
+  "quote": "\"What you get by achieving your goals is not as important as what you become by achieving your goals.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058315"
+  },
+  "quote": "\"Success is not in what you have, but who you are.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058321"
+  },
+  "quote": "\"It always seems impossible until it's done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605832d"
+  },
+  "quote": "\"Don't watch the clock; do what it does. Keep going.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058339"
+  },
+  "quote": "\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058345"
+  },
+  "quote": "\"The only easy day was yesterday. Keep pushing forward.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058351"
+  },
+  "quote": "\"Adversity causes some men to break; others to break records.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605835d"
+  },
+  "quote": "\"Success is not just about making money; it's about making a difference.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058369"
+  },
+  "quote": "\"Push yourself, because no one else is going to do it for you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058375"
+  },
+  "quote": "\"The pain of discipline is far less than the pain of regret.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058381"
+  },
+  "quote": "\"Success usually comes to those who are too busy to be looking for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605838d"
+  },
+  "quote": "\"It's not about how bad you want it; it's about how hard you're willing to work for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058399"
+  },
+  "quote": "\"To be the best, you must be able to handle the worst.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583a5"
+  },
+  "quote": "\"The only limit to our realization of tomorrow will be our doubts of today.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583af"
+  },
+  "quote": "\"You have within you right now, everything you need to deal with whatever the world can throw at you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583b7"
+  },
+  "quote": "\"Success is not about the destination; it's about the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583bd"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583c3"
+  },
+  "quote": "\"Every strike brings me closer to the next home run.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583c9"
+  },
+  "quote": "\"The only place success comes before work is in the dictionary.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583cf"
+  },
+  "quote": "\"Don't stop when you're tired. Stop when you're done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583d5"
+  },
+  "quote": "\"Success is not just about making it, it's about enjoying the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583db"
+  },
+  "quote": "\"It's not whether you win or lose, it's how you play the game.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583e1"
+  },
+  "quote": "\"The greatest glory in living lies not in never falling, but in rising every time we fall.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583e7"
+  },
+  "quote": "\"You miss 100% of the shots you don't take.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583ed"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583f3"
+  },
+  "quote": "\"Every strike brings me closer to the next home run.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583f9"
+  },
+  "quote": "\"The only easy day was yesterday.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660583ff"
+  },
+  "quote": "\"Don't stop when you're tired. Stop when you're done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058405"
+  },
+  "quote": "\"Success is not just about making it, it's about enjoying the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605840b"
+  },
+  "quote": "\"It's not the size of the dog in the fight, but the size of the fight in the dog.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058411"
+  },
+  "quote": "\"You have to expect things of yourself before you can do them.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058417"
+  },
+  "quote": "\"You can't put a limit on anything. The more you dream, the farther you get.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605841d"
+  },
+  "quote": "\"The difference between a successful person and others is not lack of strength not a lack of knowledge but rather a lack in will.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058423"
+  },
+  "quote": "\"The only person you are destined to become is the person you decide to be.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058429"
+  },
+  "quote": "\"You are what you do, not what you say you'll do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605842f"
+  },
+  "quote": "\"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058435"
+  },
+  "quote": "\"The pain of discipline is far less than the pain of regret.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605843b"
+  },
+  "quote": "\"Success usually comes to those who are too busy to be looking for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058441"
+  },
+  "quote": "\"Push yourself, because no one else is going to do it for you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058447"
+  },
+  "quote": "\"The only limit to our realization of tomorrow will be our doubts of today.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605844d"
+  },
+  "quote": "\"It's not whether you win or lose, it's how you play the game.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058453"
+  },
+  "quote": "\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058459"
+  },
+  "quote": "\"The only way to do great work is to love what you do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605845f"
+  },
+  "quote": "\"You are never too old to set another goal or to dream a new dream.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058465"
+  },
+  "quote": "\"It's not about how bad you want it; it's about how hard you're willing to work for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605846b"
+  },
+  "quote": "\"Success is not just about making money; it's about making a difference.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058471"
+  },
+  "quote": "\"The more you dream, the more you achieve.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058477"
+  },
+  "quote": "\"Success is not about the destination; it's about the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605847d"
+  },
+  "quote": "\"You have within you right now, everything you need to deal with whatever the world can throw at you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058483"
+  },
+  "quote": "\"To be the best, you must be able to handle the worst.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058489"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605848f"
+  },
+  "quote": "\"Success is not in what you have, but who you are.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058495"
+  },
+  "quote": "\"It always seems impossible until it's done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605849d"
+  },
+  "quote": "\"The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584a3"
+  },
+  "quote": "\"What you get by achieving your goals is not as important as what you become by achieving your goals.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584a7"
+  },
+  "quote": "\"Success is stumbling from failure to failure with no loss of enthusiasm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584ab"
+  },
+  "quote": "\"The only way to achieve the impossible is to believe it is possible.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584af"
+  },
+  "quote": "\"To live a creative life, we must lose our fear of being wrong.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584b3"
+  },
+  "quote": "\"Success is not just about reaching the top; it's about staying there.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584b7"
+  },
+  "quote": "\"The only place success comes before work is in the dictionary.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584bb"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584bf"
+  },
+  "quote": "\"Every strike brings me closer to the next home run.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584c3"
+  },
+  "quote": "\"The only easy day was yesterday.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584c7"
+  },
+  "quote": "\"Don't stop when you're tired. Stop when you're done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584cb"
+  },
+  "quote": "\"Success is not just about making it, it's about enjoying the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584cf"
+  },
+  "quote": "\"It's not the size of the dog in the fight, but the size of the fight in the dog.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584d3"
+  },
+  "quote": "\"You have to expect things of yourself before you can do them.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584d7"
+  },
+  "quote": "\"You can't put a limit on anything. The more you dream, the farther you get.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584db"
+  },
+  "quote": "\"The difference between a successful person and others is not lack of strength not a lack of knowledge but rather a lack in will.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584df"
+  },
+  "quote": "\"The only person you are destined to become is the person you decide to be.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584e3"
+  },
+  "quote": "\"You are what you do, not what you say you'll do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584e7"
+  },
+  "quote": "\"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584eb"
+  },
+  "quote": "\"The pain of discipline is far less than the pain of regret.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584ef"
+  },
+  "quote": "\"Success usually comes to those who are too busy to be looking for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584f3"
+  },
+  "quote": "\"Push yourself, because no one else is going to do it for you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584f7"
+  },
+  "quote": "\"The only limit to our realization of tomorrow will be our doubts of today.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584fb"
+  },
+  "quote": "\"It's not whether you win or lose, it's how you play the game.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b4548660584ff"
+  },
+  "quote": "\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058503"
+  },
+  "quote": "\"The only way to do great work is to love what you do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058507"
+  },
+  "quote": "\"You are never too old to set another goal or to dream a new dream.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605850d"
+  },
+  "quote": "\"It's not about how bad you want it; it's about how hard you're willing to work for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058511"
+  },
+  "quote": "\"Success is not just about making money; it's about making a difference.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058515"
+  },
+  "quote": "\"The more you dream, the more you achieve.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058519"
+  },
+  "quote": "\"Success is not about the destination; it's about the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605851d"
+  },
+  "quote": "\"You have within you right now, everything you need to deal with whatever the world can throw at you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058521"
+  },
+  "quote": "\"To be the best, you must be able to handle the worst.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058525"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058529"
+  },
+  "quote": "\"Success is not in what you have, but who you are.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605852f"
+  },
+  "quote": "\"It always seems impossible until it's done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058533"
+  },
+  "quote": "\"The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b454866058537"
+  },
+  "quote": "\"What you get by achieving your goals is not as important as what you become by achieving your goals.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605853b"
+  },
+  "quote": "\"Success is stumbling from failure to failure with no loss of enthusiasm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d305d8b45486605853f"
+  },
+  "quote": "\"The only way to achieve the impossible is to believe it is possible.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f3097d"
+  },
+  "quote": "\"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30995"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f3099d"
+  },
+  "quote": "\"Your attitude determines your direction during exams.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309a1"
+  },
+  "quote": "\"The only way to do great work is to love what you do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309a9"
+  },
+  "quote": "\"You are never too old to set another goal or to dream a new dream.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309af"
+  },
+  "quote": "\"Success is stumbling from failure to failure with no loss of enthusiasm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309b7"
+  },
+  "quote": "\"The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309bf"
+  },
+  "quote": "\"What you get by achieving your goals is not as important as what you become by achieving your goals.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309c9"
+  },
+  "quote": "\"Success is not in what you have, but who you are.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309d3"
+  },
+  "quote": "\"It always seems impossible until it's done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309dd"
+  },
+  "quote": "\"Don't watch the clock; do what it does. Keep going.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309e7"
+  },
+  "quote": "\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309f1"
+  },
+  "quote": "\"The only easy day was yesterday. Keep pushing forward.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f309fb"
+  },
+  "quote": "\"Adversity causes some men to break; others to break records.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a05"
+  },
+  "quote": "\"Success is not just about making money; it's about making a difference.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a0f"
+  },
+  "quote": "\"Push yourself, because no one else is going to do it for you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a19"
+  },
+  "quote": "\"The pain of discipline is far less than the pain of regret.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a23"
+  },
+  "quote": "\"Success usually comes to those who are too busy to be looking for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a2d"
+  },
+  "quote": "\"It's not about how bad you want it; it's about how hard you're willing to work for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a37"
+  },
+  "quote": "\"To be the best, you must be able to handle the worst.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a41"
+  },
+  "quote": "\"The only limit to our realization of tomorrow will be our doubts of today.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a4b"
+  },
+  "quote": "\"You have within you right now, everything you need to deal with whatever the world can throw at you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a55"
+  },
+  "quote": "\"Success is not about the destination; it's about the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a5f"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a69"
+  },
+  "quote": "\"Every strike brings me closer to the next home run.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a73"
+  },
+  "quote": "\"The only place success comes before work is in the dictionary.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a81"
+  },
+  "quote": "\"Don't stop when you're tired. Stop when you're done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a89"
+  },
+  "quote": "\"Success is not just about making it, it's about enjoying the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a93"
+  },
+  "quote": "\"It's not whether you win or lose, it's how you play the game.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30a9d"
+  },
+  "quote": "\"The greatest glory in living lies not in never falling, but in rising every time we fall.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30aa7"
+  },
+  "quote": "\"You miss 100% of the shots you don't take.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ab1"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30abb"
+  },
+  "quote": "\"Every strike brings me closer to the next home run.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ac5"
+  },
+  "quote": "\"The only easy day was yesterday.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30acf"
+  },
+  "quote": "\"Don't stop when you're tired. Stop when you're done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ad9"
+  },
+  "quote": "\"Success is not just about making it, it's about enjoying the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ae3"
+  },
+  "quote": "\"It's not the size of the dog in the fight, but the size of the fight in the dog.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30aed"
+  },
+  "quote": "\"You have to expect things of yourself before you can do them.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30af7"
+  },
+  "quote": "\"You can't put a limit on anything. The more you dream, the farther you get.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b01"
+  },
+  "quote": "\"The difference between a successful person and others is not lack of strength not a lack of knowledge but rather a lack in will.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b0b"
+  },
+  "quote": "\"The only person you are destined to become is the person you decide to be.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b15"
+  },
+  "quote": "\"You are what you do, not what you say you'll do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b1f"
+  },
+  "quote": "\"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b29"
+  },
+  "quote": "\"The pain of discipline is far less than the pain of regret.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b33"
+  },
+  "quote": "\"Success usually comes to those who are too busy to be looking for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b3d"
+  },
+  "quote": "\"Push yourself, because no one else is going to do it for you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b47"
+  },
+  "quote": "\"The only limit to our realization of tomorrow will be our doubts of today.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b51"
+  },
+  "quote": "\"It's not whether you win or lose, it's how you play the game.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b5b"
+  },
+  "quote": "\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b65"
+  },
+  "quote": "\"The only way to do great work is to love what you do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b6f"
+  },
+  "quote": "\"You are never too old to set another goal or to dream a new dream.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b79"
+  },
+  "quote": "\"It's not about how bad you want it; it's about how hard you're willing to work for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b83"
+  },
+  "quote": "\"Success is not just about making money; it's about making a difference.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30b91"
+  },
+  "quote": "\"The more you dream, the more you achieve.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ba7"
+  },
+  "quote": "\"Success is not about the destination; it's about the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bbb"
+  },
+  "quote": "\"You have within you right now, everything you need to deal with whatever the world can throw at you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bcf"
+  },
+  "quote": "\"To be the best, you must be able to handle the worst.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30be3"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30bf7"
+  },
+  "quote": "\"Success is not in what you have, but who you are.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c0b"
+  },
+  "quote": "\"It always seems impossible until it's done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c1f"
+  },
+  "quote": "\"The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c33"
+  },
+  "quote": "\"What you get by achieving your goals is not as important as what you become by achieving your goals.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c47"
+  },
+  "quote": "\"Success is stumbling from failure to failure with no loss of enthusiasm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c5b"
+  },
+  "quote": "\"The only way to achieve the impossible is to believe it is possible.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c6f"
+  },
+  "quote": "\"To live a creative life, we must lose our fear of being wrong.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c79"
+  },
+  "quote": "\"Success is not just about reaching the top; it's about staying there.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30c8d"
+  },
+  "quote": "\"The only place success comes before work is in the dictionary.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ca1"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cb5"
+  },
+  "quote": "\"Every strike brings me closer to the next home run.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cc9"
+  },
+  "quote": "\"The only easy day was yesterday.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cdb"
+  },
+  "quote": "\"Don't stop when you're tired. Stop when you're done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30cef"
+  },
+  "quote": "\"Success is not just about making it, it's about enjoying the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d03"
+  },
+  "quote": "\"It's not the size of the dog in the fight, but the size of the fight in the dog.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d17"
+  },
+  "quote": "\"You have to expect things of yourself before you can do them.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d2b"
+  },
+  "quote": "\"You can't put a limit on anything. The more you dream, the farther you get.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d3f"
+  },
+  "quote": "\"The difference between a successful person and others is not lack of strength not a lack of knowledge but rather a lack in will.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d53"
+  },
+  "quote": "\"The only person you are destined to become is the person you decide to be.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d67"
+  },
+  "quote": "\"You are what you do, not what you say you'll do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d7b"
+  },
+  "quote": "\"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d8f"
+  },
+  "quote": "\"The pain of discipline is far less than the pain of regret.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30d9f"
+  },
+  "quote": "\"Success usually comes to those who are too busy to be looking for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dad"
+  },
+  "quote": "\"Push yourself, because no one else is going to do it for you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30db9"
+  },
+  "quote": "\"The only limit to our realization of tomorrow will be our doubts of today.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dc3"
+  },
+  "quote": "\"It's not whether you win or lose, it's how you play the game.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dcd"
+  },
+  "quote": "\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dd5"
+  },
+  "quote": "\"The only way to do great work is to love what you do.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30ddd"
+  },
+  "quote": "\"You are never too old to set another goal or to dream a new dream.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30de1"
+  },
+  "quote": "\"It's not about how bad you want it; it's about how hard you're willing to work for it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30de7"
+  },
+  "quote": "\"Success is not just about making money; it's about making a difference.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30def"
+  },
+  "quote": "\"The more you dream, the more you achieve.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30df7"
+  },
+  "quote": "\"Success is not about the destination; it's about the journey.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30dff"
+  },
+  "quote": "\"You have within you right now, everything you need to deal with whatever the world can throw at you.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30e03"
+  },
+  "quote": "\"To be the best, you must be able to handle the worst.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30e07"
+  },
+  "quote": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30e0b"
+  },
+  "quote": "\"Success is not in what you have, but who you are.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30e0f"
+  },
+  "quote": "\"It always seems impossible until it's done.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30e13"
+  },
+  "quote": "\"The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30e17"
+  },
+  "quote": "\"What you get by achieving your goals is not as important as what you become by achieving your goals.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30e1b"
+  },
+  "quote": "\"Success is stumbling from failure to failure with no loss of enthusiasm.\"",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a29d584c35af83f8f30e1f"
+  },
+  "quote": "\"The only way to achieve the impossible is to believe it is possible.\"",
+  "status": false,
+  "__v": 0
+}]
