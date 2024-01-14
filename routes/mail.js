@@ -1,10 +1,5 @@
 const nodemailer = require("nodemailer");
 
-/**
- * Sends a motivational quote via email.
- * @param {string} toEmail - The recipient's email address.
- * @param {string} quote - The motivational quote to be sent.
- */
 function sendMail(toEmail, quote) {
   // Create a transporter for sending emails
   let mailTransporter = nodemailer.createTransport({
@@ -24,7 +19,7 @@ function sendMail(toEmail, quote) {
       name: 'Quoter',
       address: 'noreply@example.com'
     },
-    to: toEmail,  // Correct the recipient's email address
+    to: toEmail,
     subject: "Today's Motivational Quote",
     text: quote
   };

@@ -4,17 +4,30 @@ const cron = require('node-cron');
 const { Coding, Sports, Fashion, Business, Exams, Trading } = require('./quotes');
 const { userModel } = require('./users');
 const { sendMail } = require('./mail');
+const session = require('express-session');
+const flash = require('connect-flash');
 
 // Use JSON parser middleware for handling JSON data
 router.use(express.json());
+router.use(session({
+  secret: 'geeksforgeeks',
+  saveUninitialized: true,
+  resave: true
+}));
+router.use(flash());
 
 /* GET home page. */
 router.get('/', function (req, res) {
-  res.render('index');
+  // Retrieve flash messages
+  const successFlash = req.flash('success');
+  const errorFlash = req.flash('error');
+
+  // Render the index template and pass flash messages to it
+  res.render('index', { successFlash, errorFlash });
 });
 
 // Schedule a cron job to send random quotes every Monday at 6:00 AM
-cron.schedule("0 6 * * 1", async function () {
+cron.schedule("0 6 * * *", async function () {
   try {
     // Fetch all users from the database
     const users = await userModel.find();
@@ -31,6 +44,11 @@ cron.schedule("0 6 * * 1", async function () {
     console.error('Error scheduling cron job:', error);
   }
 });
+
+// Schedule a cron job to run every second (for testing purposes)
+// cron.schedule("*/5 * * * * *", async function () {
+//   console.log('Running every second for testing purposes');
+// });
 
 // Function to get a random quote from a given model
 async function getRandomQuote(model) {
@@ -80,6 +98,7 @@ async function printRandomQuotes(categories, email) {
 
 // Save user subscription preferences
 router.post('/subscribe', async function (req, res) {
+
   const { email, coding, sports, fashion, business, exams, trading } = req.body;
 
   const categories = [];
@@ -92,29 +111,51 @@ router.post('/subscribe', async function (req, res) {
   if (exams) categories.push(exams);
   if (trading) categories.push(trading);
 
+  console.log(categories);
+
+  // Check if the categories array is empty
+   
+
   try {
+
     // Check if the user already exists in the database
     const existingUser = await userModel.findOne({ email });
 
-    if (existingUser) {
+    if (categories.length == 0) { 
+      req.flash('error', 'Please select at least 1 category.'); 
+    }
+    else if (existingUser) {
       // If the user exists, update their subscription preferences
       existingUser.categories = categories;
       await existingUser.save();
-    } else {
+
+      // Set flash message for updating subscription preferences
+      req.flash('success', 'Category preferences updated successfully!');
+    }
+    else {
       // If the user doesn't exist, create a new user with subscription preferences
       const newUser = new userModel({
         email,
         categories
       });
       await newUser.save();
+
+      // Set flash message for new subscription
+      req.flash('success', 'Subscribed successfully!');
+      
     }
 
-    // Send success response
-    res.status(200).json({ success: true, message: 'Subscription updated successfully.' });
+    // Redirect with flash message
+    res.redirect("/");
+
   } catch (error) {
     console.error('Error subscribing:', error);
-    // Send error response
-    res.status(500).json({ success: false, message: 'Internal server error.' });
+
+    // Set flash message for error
+    req.flash('error', 'Error subscribing. Please try again.');
+
+    // Redirect with flash message
+    res.redirect("/");
   }
 });
 

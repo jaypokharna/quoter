@@ -7,54 +7,63 @@
 
   <!-- Link to external stylesheet -->
   <link rel="stylesheet" href="stylesheets/style.css">
-
 </head>
-<body class="bg-cyan-300">
-  <!-- Main content of the page -->
-  Main Page
+<body>
+  <div class="container">
+    <div class="form">
+      <form action="/subscribe" method="post">
+        <span class="title">Receive Daily Motivational Quotes</span>
+        <p class="description">Elevate your day with inspiring quotes delivered straight to your inbox. Created by <a href="https://www.linkedin.com/in/jay-pokharna-940a42207/">Jay Pokharna</a>.</p>
+        <div>
+          <input class="input-box" placeholder="Enter your email" type="email" name="email" id="email-address" required>
+          <span class="underline"></span>
+          <button type="submit">Subscribe</button>
+        </div>
 
-  <!-- Subscription form -->
-  <form id="subscriptionForm" action="/subscribe" method="post">
-    <!-- Email input -->
-    <label for="email">Email:</label>
-    <input type="email" id="email" name="email" required>
-    <br>
+        <!-- Categories checkboxes -->
+        <label id="catlable">Categories:</label>
+        <div class="categories">
+          <!-- Coding category -->
+          <input type="checkbox" id="coding" name="coding" value="coding">
+          <label for="coding">Coding</label>
 
-    <!-- Categories checkboxes -->
-    <label>Categories:</label>
-    <div>
-        <!-- Coding category -->
-        <input type="checkbox" id="coding" name="coding" value="coding">
-        <label for="coding">Coding</label>
+          <!-- Sports category -->
+          <input type="checkbox" id="sports" name="sports" value="sports">
+          <label for="sports">Sports</label>
 
-        <!-- Sports category -->
-        <input type="checkbox" id="sports" name="sports" value="sports">
-        <label for="sports">Sports</label>
+          <!-- Fashion category -->
+          <input type="checkbox" id="fashion" name="fashion" value="fashion">
+          <label for="fashion">Fashion</label>
 
-        <!-- Fashion category -->
-        <input type="checkbox" id="fashion" name="fashion" value="fashion">
-        <label for="fashion">Fashion</label>
+          <!-- Business category -->
+          <input type="checkbox" id="business" name="business" value="business">
+          <label for="business">Business</label>
 
-        <!-- Business category -->
-        <input type="checkbox" id="business" name="business" value="business">
-        <label for="business">Business</label>
+          <!-- Exams category -->
+          <input type="checkbox" id="exams" name="exams" value="exams">
+          <label for="exams">Exams</label>
 
-        <!-- Exams category -->
-        <input type="checkbox" id="exams" name="exams" value="exams">
-        <label for="exams">Exams</label>
+          <!-- Trading category -->
+          <input type="checkbox" id="trading" name="trading" value="trading">
+          <label for="trading">Trading</label>
 
-        <!-- Trading category -->
-        <input type="checkbox" id="trading" name="trading" value="trading">
-        <label for="trading">Trading</label>
-
-        <!-- Add more checkboxes for other categories as needed -->
-
+          <!-- Add more checkboxes for other categories as needed -->
+        </div>
+      </form>
     </div>
-    <br>
-
-    <!-- Subscribe button -->
-    <button type="submit">Subscribe</button>
-  </form>
-
+    
+    <% if (successFlash && successFlash.length > 0) { %>
+      <div class="alert alert-success" id="successAlert">
+        <%= successFlash[0] %>
+      </div>
+    <% } %>
+    
+    <% if (errorFlash && errorFlash.length > 0) { %>
+      <div class="alert alert-danger" id="errorAlert">
+        <%= errorFlash[0] %>
+      </div>
+    <% } %>
+  </div>
+  <script src="/javascripts/alerts.js"></script>
 </body>
 </html>
