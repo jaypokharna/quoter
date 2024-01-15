@@ -1,5 +1,5 @@
 ![Application](https://socialify.git.ci/jaypokharna/quoter/image?font=Bitter&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
-<p align="center"> · <a href="http://shorty.eba-nk2ywaij.ap-south-1.elasticbeanstalk.com/">View Demo</a> · </p>
+<p align="center"> · <a href="https://tame-gold-deer-coat.cyclic.app/">View Demo</a> · </p>
 
 ## 📝 About the project
 
