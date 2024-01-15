@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Connection to MongoDB
-mongoose.connect("<MongoDB_Connection_String>quotes");
+mongoose.connect("mongodb+srv://jayp:2012@cluster0.ozimw5y.mongodb.net/quotes");
 
 // Define a common schema for different categories
 const quoteSchema = new mongoose.Schema({
